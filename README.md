@@ -8,7 +8,6 @@ Welcome to my charming animated hot cup of tea! Pour yourself a virtual cup and 
 ## What's This?
 
 I've created a sweet CSS animation of a hot cup of tea. Watch the steam rise and the tea shimmer—it's a simple joy.
-
-3. Relax and savor the animated hot cup of tea!
+Relax and savor the animated hot cup of tea!
 
 
